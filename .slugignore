@@ -1,0 +1,6 @@
+*.psd
+*.pdf
+/test
+/docs
+/raw_media
+/src
