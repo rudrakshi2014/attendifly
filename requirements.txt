@@ -27,9 +27,3 @@ bcrypt
 # Voice Recognition & Audio
 librosa
 resemblyzer
-
---extra-index-url https://pytorch.org
-torch
-torchvision
-opencv-python-headless
-tensorflow-cpu
