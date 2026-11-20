@@ -8,7 +8,7 @@ def show_home_page():
     style_background_home()
     style_base_layout()
 
-    col1, col2 = st.columns(2, gap="large")
+    col1, col2 = st.columns(2, gap="small")
     with col1:
         st.header("I'm a Student")
         st.image("https://i.ibb.co/844D9Lrt/mascot-student.png", width=120)

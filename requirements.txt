@@ -1,13 +1,11 @@
 streamlit
 
 # Core Utilities
-numpy<2.0.0; python_version == "3.10"
-numpy; python_version != "3.10"
+numpy<2.0.0
 pandas
 
 # Build & Compatibility
-setuptools<70.0.0; python_version == "3.10"
-setuptools; python_version != "3.10"
+setuptools<70.0.0
 wheel
 
 # Machine Learning & Computer Vision
